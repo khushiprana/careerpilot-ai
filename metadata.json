@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI",
+  "description": "Personal AI Career Coach for resume analysis, ATS scoring, learning roadmaps, interview preparation, cover letter generation, portfolio projects, and AI career guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
