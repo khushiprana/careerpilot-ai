@@ -2,6 +2,8 @@
 
 **CareerPilot AI** is an all-in-one, full-stack career development platform powered by Google Gemini AI. It transforms raw resumes and job descriptions into actionable insights, tailored learning roadmaps, ATS match scores, mock interview simulations, custom cover letters, and targeted project recommendations.
 
+**Live Application:**
+https://careerpilot-ai-hazel-nine.vercel.app/
 ---
 
 ## ✨ Features
@@ -151,6 +153,7 @@ npm start
 
 ---
 
-## 📄 License
+## Author
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Khushi Rana
+Computer Engineering Student | AI & Technology
